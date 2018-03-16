@@ -1,6 +1,5 @@
 exampleunity
 ============
-
 Testing 3
 
 An example app created using the Unity game engine: http://unity3d.com/
