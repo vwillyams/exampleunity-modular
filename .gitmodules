@@ -1,3 +1,3 @@
 [submodule "Assets/exampleunity-module"]
 	path = Assets/exampleunity-module
-	url = https://github.com/vwillyams/exampleunity-module
+	url = git@github.com:vwillyams/exampleunity-module.git
